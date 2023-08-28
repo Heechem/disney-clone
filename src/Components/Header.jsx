@@ -1,13 +1,13 @@
-import React, { useState } from 'react';
-import logo from '../assets/Images/logo.png';
+import  { useState } from 'react';
+import { HiDotsVertical, HiPlus } from 'react-icons/hi';
 import {
   HiHome,
   HiMagnifyingGlass,
-  HiStar,
   HiPlayCircle,
+  HiStar,
   HiTv,
 } from 'react-icons/hi2';
-import { HiPlus, HiDotsVertical } from 'react-icons/hi';
+import logo from '../assets/Images/logo.png';
 import HeaderItem from './HeaderItem';
 
 function Header() {
