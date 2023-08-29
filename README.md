@@ -1,8 +1,23 @@
-# React + Vite
+# Disney Clone 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+![image](https://github.com/Heechem/disney-clone/assets/117024247/c772709b-64dc-4ad7-ad24-02880c02b186)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+## Product Description 
+
+This is a clone of disney +  that I made to master Tailwind and styling .
+
+***
+
+### Technologies used : 
+
+- React JS : Library based on JS
+- TailwindCSS : a popu utility-first CSS styling Framwork
+- React Icons : the most popular Icon used with React
+
+
+## Purpose of learning :
+
+Learning to build and styling, and use the basic wbesite layout 
